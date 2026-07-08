@@ -30,9 +30,4 @@ STREAMit! is a free and ad-free Movies/TV Shows streaming app. No sign up or reg
 - **Picture-in-Picture (PiP) Mode:** Multitask while watching with PiP support.
 - **Fullscreen:** Watch in fullscreen mode.
 
-## License
 
-Licensed under the [MIT License](LICENSE).
-
-## Donation
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O1QRSMK)
